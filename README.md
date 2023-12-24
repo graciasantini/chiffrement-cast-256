@@ -18,7 +18,7 @@ CAST-256 utilise une structure en réseau de Feistel, qui divise la clé en sous
 5. utils.py
    Le fichier utils.py contient des fonctions qui permettront d'effectuer des opérations arithmétiques et binaires de base.
    
-   A. sum_mod_232(a, b) : Cette fonction effectue la somme de deux nombre a et b dans l'espace module 2^32
+A. sum_mod_232(a, b) : Cette fonction effectue la somme de deux nombre a et b dans l'espace module 2^32
    
    B. diff_mod_232(a, b) : Cette fonction effectue la différence entre deux nombres aa et bb dans un espace modulo 2^32.
    
